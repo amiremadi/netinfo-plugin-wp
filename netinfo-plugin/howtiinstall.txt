@@ -1,0 +1,3 @@
+upload netinfo-plugin folder to plugin folder in wordpress
+
+/wp-content/plugins/
